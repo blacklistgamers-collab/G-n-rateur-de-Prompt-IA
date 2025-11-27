@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Prompt IA",
+  "description": "Une application web pour générer des prompts optimaux pour l'IA dans divers secteurs. Choisissez un type, décrivez votre objectif, et téléchargez éventuellement un fichier pour plus de contexte afin de créer le prompt parfait.",
+  "requestFramePermissions": []
+}
